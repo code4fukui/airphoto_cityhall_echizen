@@ -7,7 +7,7 @@ This project provides a tool for capturing aerial photographs of Echizen City Ha
 ## Features
 - Automated drone flight path planning
 - Supports multiple camera angles and altitudes
-- Outputs high-resolution aerial photographs
+- Outputs high-resolution aerial photographs of the city hall and surrounding area
 
 ## Requirements
 - DJI Phantom 4 Pro drone
@@ -23,4 +23,4 @@ This project provides a tool for capturing aerial photographs of Echizen City Ha
 3. Run the `main.py` script to execute the automated photography mission.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License — see [LICENSE](LICENSE).
